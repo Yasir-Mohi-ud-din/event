@@ -1,4 +1,4 @@
-let s = "abcdba";
+let s = "abcba";
 let n = s.length;
 console.log(n);
 let f =1;
